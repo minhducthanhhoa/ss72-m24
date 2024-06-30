@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Kiến thức quan trọng về ReactJS",
+      "thumbnail": "https://s3-sgn09.fptcloud.com/codelearnstorage/Upload/Blog/react-js-co-ban-phan-1-63738082145.3856.jpg",
+      "content": "Content about ReactJS",
+      "category": "Lập trình web",
+      "createdAt": "2024-02-15",
+      "updateAt": "2024-02-15",
+      "status": "Ngừng xuất bản"
+    },
+    {
+      "id": 2,
+      "title": "Ngôn ngữ lập trình Java",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNDLTeb2ssFVFXtStyuvfj7IWY1xtL6Cuy9g&s",
+      "content": "Content about Java",
+      "category": "Lập trình web",
+      "createdAt": "2024-02-15",
+      "updateAt": "2024-02-15",
+      "status": "Đã xuất bản"
+    }
+  ]
+}
